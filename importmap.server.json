@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "react": "./static/es-react/react.js",
+    "react-dom/server": "./static/es-react/react-dom-server-browser.js"
+  }
+}
